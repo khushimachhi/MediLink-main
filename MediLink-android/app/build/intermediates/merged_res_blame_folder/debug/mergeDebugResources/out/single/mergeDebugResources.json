@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.example.medilinkapp-debug-54:/font_font_awesome_regular.ttf.flat",
+        "source": "com.example.medilinkapp-main-56:/font/font_awesome_regular.ttf"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/drawable_greeting_doc.jpeg.flat",
+        "source": "com.example.medilinkapp-main-56:/drawable/greeting_doc.jpeg"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/drawable_greeting_bg.jpeg.flat",
+        "source": "com.example.medilinkapp-main-56:/drawable/greeting_bg.jpeg"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.medilinkapp-main-56:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.medilinkapp-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/xml_backup_rules.xml.flat",
+        "source": "com.example.medilinkapp-main-56:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/font_font_awesome_solid.ttf.flat",
+        "source": "com.example.medilinkapp-main-56:/font/font_awesome_solid.ttf"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.medilinkapp-main-56:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.medilinkapp-main-56:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.medilinkapp-debug-54:/font_font_awesome_brand.ttf.flat",
+        "source": "com.example.medilinkapp-main-56:/font/font_awesome_brand.ttf"
+    }
+]
